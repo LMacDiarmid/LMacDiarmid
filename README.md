@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋 Hi there, I'm Leanne! 
+ - 🌱 I’m a computing student
+ - ✒️ I'm currently working on/learning Java, HTML, PHP, JS, MYSQL and Kotlin
+
+
 
 <!--
 **LMacDiarmid/LMacDiarmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
