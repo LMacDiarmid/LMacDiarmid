@@ -1,6 +1,7 @@
 ### 👋 Hi there, I'm Leanne! 
  - 🌱 I’m a computing student
  - ✒️ I'm currently working on/learning Java, HTML, PHP, JS, MYSQL and Kotlin
+ - 📓 Working on a Dissertation using Open Data in Procedural Generation Games 
 
 
 
